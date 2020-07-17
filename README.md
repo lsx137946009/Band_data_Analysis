@@ -1,4 +1,4 @@
-# bioloop
+# PAWO
 ### Works of this project
  PAWO (Platform for Analyzing Wearable Output) pipeline to organize and process sensor signals acquired from the wearable devices
 
