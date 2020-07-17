@@ -1,5 +1,7 @@
-# Band_data_Analysis
+# bioloop
 ### Works of this project
+ PAWO (Platform for Analyzing Wearable Output) pipeline to organize and process sensor signals acquired from the wearable devices
+
 1. This project is aim to compare the precision of heart rate of two bands.
 2. In the project, we parse the data of SensOmics Band firstly.
 3. We use Mse and Correlation coefficient as the indicator for comparing.
